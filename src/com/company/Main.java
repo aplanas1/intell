@@ -11,7 +11,7 @@ public class Main {
     }
 
     /**
-     *
+     * Muestra por consola un mensaje con los parametros otrogados.
      * @param a Parametro de un string para imprimir
      * @param b Otro parametro de un string para imprimir
      */

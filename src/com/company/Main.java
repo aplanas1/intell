@@ -7,5 +7,17 @@ public class Main {
         System.out.println("Prueba 1");
         System.out.println("Prueba 2");
         System.out.println("NO PEPE");
+        mensaje("hola", "adios");
     }
+
+    /**
+     *
+     * @param a Parametro de un string para imprimir
+     * @param b Otro parametro de un string para imprimir
+     */
+
+    public static void mensaje(String a, String b) {
+        System.out.println(a + " " + b);
+    }
+
 }
